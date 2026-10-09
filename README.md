@@ -2,7 +2,7 @@
 
 Nama: Ahadin Ilman  
 NIM: 2225250220  
-Kelas: 3A 
+Kelas: 3A
 
 ## Tujuan
 Menggunakan nested loop, pola, akumulasi, dan pencacahan.
